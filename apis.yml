@@ -1,0 +1,32 @@
+aid: staffsign
+name: staffSign
+description: "Digital employment contract API with QES/eIDAS support for HR and staffing"
+url: https://staffsign.de/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: staffSign
+    description: "Digital employment contract API with QES/eIDAS support for HR and staffing"
+    humanURL: https://staffsign.de/docs
+    baseURL: https://staffsign.de/docs
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://staffsign.de/docs
+common:
+  - type: Website
+    url: https://staffsign.de/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
