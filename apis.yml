@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://staffsign.de/docs
 common:
+  - type: DomainSecurity
+    url: security/staffsign-domain-security.yml
   - type: Website
     url: https://staffsign.de/docs
   - type: PublicAPIsListing
