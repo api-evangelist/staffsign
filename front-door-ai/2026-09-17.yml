@@ -1,0 +1,30 @@
+# Front Door AI Index — staffsign — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: staffsign
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: staffsign.de
+  final_host: staffsign.de
+  ownership: own
+  owner: staffsign
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 16
+  host_score: 16
+  density: 8.33
+  words: 1920
+  tiers:
+    agentic: 11
+    core: 1
+    model: 4
+  ambiguous: 3
+  top_terms:
+    MCP: 10
+    agent: 3
+    ChatGPT: 2
+    Claude: 2
+    ML: 1
+    chatbot: 1
